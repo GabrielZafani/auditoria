@@ -1,0 +1,8 @@
+[
+  { "id": 1, "nome": "Teclado mecânico ABNT2", "preco": 349.9, "quantidade": 12 },
+  { "id": 2, "nome": "Mouse sem fio 2.4GHz", "preco": 129.5, "quantidade": 3 },
+  { "id": 3, "nome": "Monitor 27\" 144Hz", "preco": 1899.0, "quantidade": 7 },
+  { "id": 4, "nome": "Cabo HDMI 2.1 (2m)", "preco": 79.9, "quantidade": 0 },
+  { "id": 5, "nome": "SSD NVMe 1TB", "preco": 529.0, "quantidade": 25 },
+  { "id": 6, "nome": "Headset USB com microfone", "preco": 289.9, "quantidade": 4 }
+]
